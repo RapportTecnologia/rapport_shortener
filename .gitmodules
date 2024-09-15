@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:RapportTecnologia/rapport_shortner_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:RapportTecnologia/rapport_shortener_frontend.git
